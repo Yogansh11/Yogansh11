@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yogansh
-- 👀 I’m interested in programing..
+- 👀 I’m interested in problem solving using programing.
 - 🌱 I’m currently learning Web Development.
 - 📫 You can reach me on yoganshtembhare11@gmail.com
 
