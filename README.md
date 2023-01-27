@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yogansh
 - 👀 I’m interested in problem solving using programing.
 - 🌱 I’m currently learning Web Development.
-- 📫 You can reach me on yoganshtembhare11@gmail.com
+- 📫 You can reach me on yoganshtembhare@outlook.com.com
 
 <!---
 Yogansh11/Yogansh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
